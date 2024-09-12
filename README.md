@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali-0703" alt="sonali-0703" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science to become a scientist in the field**
+- 🌱 I’m currently learning **Data Science, AWS**
 
 - 👯 I’m looking to collaborate on **projects related to data analysis, visualization and machine learning**
 
