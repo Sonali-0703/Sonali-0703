@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sonali Sharma</h1>
-<h3 align="center">I’m interested in learning emerging technologies also, exploring new adventures and discovering diverse cuisines</h3>
+<h3 align="center">I’m interested in Exploring data to uncover insights, playing with AWS cloud services, building cool dashboards, and turning data into stories that actually make sense.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali-0703&label=Profile%20views&color=0e75b6&style=flat" alt="sonali-0703" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali-0703" alt="sonali-0703" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science, AWS**
+- 🌱 I’m currently learning **Data Analysis, Data Visualization, SQL, Python, and AWS Cloud services (S3, EC2, Lambda, and SageMaker)**
 
-- 👯 I’m looking to collaborate on **projects related to data analysis, visualization and machine learning**
+- 👯 I’m looking to collaborate on **Projects involving data analysis, building dashboards, ETL pipelines, predictive modeling, and deploying machine learning models on AWS**
 
 - 📫 How to reach me **sonalisharma9594@gmail.com**
 
-- ⚡ Fun fact **😋I once tried 10 different types of pizza in a single week! 🍕**
+- ⚡ Fun fact **I turn messy data into insights by day, and by night, I’m either traveling, trying new cuisines, or experimenting with interactive data visualizations.” 🌍🍲📈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
